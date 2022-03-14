@@ -17,3 +17,25 @@ attendance in certain month/week, for certain course, etc</li>
 
 # Screenshots
 
+<h2><li>System Admin Page</li><h2>
+  
+  
+  
+<img src="Images/img-3.png" >
+  
+  
+  
+<h2><li>Teacher Page</li><h2>
+  
+  
+<img src="Images/img-1.png" >
+
+  
+<h2><li>Student Page</li><h2>
+  
+  
+<img src="Images/img-2.png" >
+
+  
+  
+@abudah 2021
